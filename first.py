@@ -3,4 +3,4 @@ import numpy as np
 
 df = pd.DataFrame(np.randon.randn(10, 3))
 
-print(df, df[2])
+print(df, df[2], df[3])
